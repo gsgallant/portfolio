@@ -201,7 +201,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/sky_sunset_nature.jpg) no-repeat center top;
+	background: url(../img/hotairballoon.jpg) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
@@ -217,7 +217,7 @@ input {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: white;
+    color: black;
 }
 
 #h .logo {
@@ -299,12 +299,12 @@ input {
 /* CONTACT SEPARATOR */
 #sep {
 	background: url(../img/nycskyline.jpg) no-repeat center top;
-	padding-top: 100px;
+	padding-top: 30px;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 450px;
 	width: 100%;
-	color: white;
+	color: black;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -315,7 +315,7 @@ input {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: white;
+    color: black;
 }
 
 #sep h3 {
