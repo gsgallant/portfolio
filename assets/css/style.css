@@ -201,7 +201,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/hotairballoon.jpg) no-repeat center top;
+	background: url(../img/nightsky.jpg) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
@@ -217,7 +217,7 @@ input {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: black;
+    color: white;
 }
 
 #h .logo {
@@ -304,7 +304,7 @@ input {
 	background-position: center center;
 	min-height: 450px;
 	width: 100%;
-	color: black;
+	color: white;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -315,7 +315,7 @@ input {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: black;
+    color: white;
 }
 
 #sep h3 {
