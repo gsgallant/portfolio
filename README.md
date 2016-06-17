@@ -8,7 +8,7 @@
 <p align="center">
 <span>
 <img src="https://github.com/gsgallant/screenshots/blob/master/portfolio/Screen%20Shot%202016-06-17%20at%2010.38.11%20AM.png" width="48%" height="auto"/>
-<img src="https://github.com/gsgallant/screenshots/blob/master/portfolio/Screen%20Shot%202016-06-17%20at%2010.38.11%20AM.png" width="48%" height="auto"/>
+<img src="https://github.com/gsgallant/screenshots/blob/master/portfolio/Screen%20Shot%202016-06-17%20at%2010.38.28%20AM.png" width="48%" height="auto"/>
 <img src="https://github.com/gsgallant/screenshots/blob/master/portfolio/Screen%20Shot%202016-06-17%20at%2010.38.44%20AM.png" width="48%" height="auto"/>
 <img src="https://github.com/gsgallant/screenshots/blob/master/portfolio/Screen%20Shot%202016-06-17%20at%2010.38.54%20AM.png" width="48%" height="auto"/>
 </span>
