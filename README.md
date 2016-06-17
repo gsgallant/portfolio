@@ -1,9 +1,8 @@
-#This repo contains my portfolio.  The screenshots
-are of this portfolio app (these are not the screenshots of the apps within my portfolio).
+#Portfolio Code  
+This is not my portfolio but only the code for my portfolio.
+The screenshots in this README are of this portfolio app (these are not the screenshots of the apps within my portfolio).
 
-
-#App can be run at:
-- http://gallantportfolio.herokuapp.com
+You probably reached this github repo through the actual portfolio website and this is only the README for the portfolio app.
 
 #Screenshots:
 <p align="center">
