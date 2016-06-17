@@ -1,8 +1,8 @@
 #Portfolio App Code  
-This is the code for my portfolio app. You probably reached this github repo through the actual portfolio website and this is only the README for the portfolio app.  Each app within the portfolio has its own README and are accessible via the running portfolio website.<br>http://gallantportfolio.herokuapp.com
-
-The screenshots in this README are of this app (these are not the screenshots of the apps within my portfolio).
-
+This is the README for my portfolio app.  This repo is not a portfolio and
+the screenshots below are only of this app, not of the apps in my portfolio.
+You might have reached this page through the actually portfolio website:
+<br>http://gallantportfolio.herokuapp.com<br>or<br>greggallant.net<br>
 #Screenshots:
 <p align="center">
 <span>
