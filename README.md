@@ -23,5 +23,6 @@ My portfolio is constantly a work in progress.  I started with a bootstrap templ
 
 Each app has two links: one to the github repo and one to the live deployment on heroku so that you can run the app.  Just hover over the app screenshot to see the links available.
 
+<p align="center">
 &copy; Greg Gallant
 </p>
