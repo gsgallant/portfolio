@@ -1,4 +1,5 @@
-#Portfolio of some projects.
+#This repo contains my portfolio.  The screenshots
+are of this portfolio app (these are not the screenshots of the apps within my portfolio).
 
 
 #App can be run at:
