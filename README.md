@@ -1,8 +1,7 @@
-#Portfolio Code  
-This is not my portfolio but only the code for my portfolio.
-The screenshots in this README are of this portfolio app (these are not the screenshots of the apps within my portfolio).
+#Portfolio App Code  
+This is not my portfolio but only the code for my portfolio app. You probably reached this github repo through the actual portfolio website and this is only the README for the portfolio app.
 
-You probably reached this github repo through the actual portfolio website and this is only the README for the portfolio app.
+The screenshots in this README are of this portfolio app (these are not the screenshots of the apps within my portfolio).
 
 #Screenshots:
 <p align="center">
