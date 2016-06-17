@@ -1,7 +1,7 @@
 #Portfolio App Code  
 This is the README for my portfolio app.  The screenshots below are only of this app, not of the apps in my portfolio.
 You might have reached this page through the actual portfolio website:
-<br>http://gallantportfolio.herokuapp.com<br>or<br>http://greggallant.net/<br>
+<br>http://greggallant.net<br>or<br>http://gallantportfolio.herokuapp.com/<br>
 #Screenshots:
 <p align="center">
 <span>
