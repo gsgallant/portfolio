@@ -19,7 +19,7 @@ Bootstrap, jQuery, CSS
 
 #Comments
 
-My portfolio is constantly a work in progress.  I started with a nice bootstrap template and customized it for my own purposes.  I've added some nice functionality to it and some additional features as well as some personal styling.
+My portfolio is constantly a work in progress.  I started with a bootstrap template and customized it for my own purposes.  I've added some additional functionality and features as well as some personal styling.
 
 Each app has two links: one to the github repo and one to the live deployment on heroku so that you can run the app.  Just hover over the app screenshot to see the links available.
 
